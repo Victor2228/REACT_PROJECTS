@@ -1,3 +1,4 @@
 # REACT_PROJECTS
 Building purely REACT-Based Projects
-https://chatgpt-article.netlify.app
+chat-gpt : https://chatgpt-article.netlify.app
+3d-portfolio : 
